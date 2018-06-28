@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="com.linkcld.cordova.fix.blackscreen" version="1.0.0" 
+<plugin id="cordova-fix-blackscreen" version="1.0.0" 
     xmlns="http://apache.org/cordova/ns/plugins/1.0" 
     xmlns:android="http://schemas.android.com/apk/res/android">
     <name>cordova-fix-blackscreen</name>
@@ -9,7 +9,7 @@
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="cordova-fix-blackscreen">
-                <param name="android-package" value="com.woodstream.cordova.fix.blackscreen.cordova-fix-blackscreen" />
+                <param name="android-package" value="cordova-fix-blackscreen" />
             </feature>
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml"></config-file>
