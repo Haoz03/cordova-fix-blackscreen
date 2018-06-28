@@ -1,9 +1,9 @@
 {
  "name": "cordova-fix-blackscreen",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "demo",
   "cordova": {
-    "id": "com.woodstream.cordova.fix.blackscreen",
+    "id": "com.linkcld.cordova.fix.blackscreen",
     "platforms": [
       "android"
     ]
